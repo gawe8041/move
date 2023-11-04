@@ -735,7 +735,7 @@ let coin_ref = &mut coin2;
 
 let x2 = x; // copy
 let b2 = b; // copy
-let addr2 = @0x42; // copy
+let addr2 = addr; // copy
 let x_ref2 = x_ref; // copy
 let coin_ref2 = coin_ref; // copy
 ```
